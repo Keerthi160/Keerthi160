@@ -9,7 +9,6 @@
 - Bakery ux:https://www.figma.com/file/bJKA1Bxz5FqmtfjkGDfkYP/web?type=design&node-id=179%3A209&mode=design&t=0s8mnFU5iLBtjnE8-1
 - whatsapp ux:https://www.figma.com/file/bJKA1Bxz5FqmtfjkGDfkYP/web?type=design&node-id=130%3A44&mode=design&t=0s8mnFU5iLBtjnE8-1
 - Food app ux:https://www.figma.com/file/bJKA1Bxz5FqmtfjkGDfkYP/web?type=design&node-id=83%3A99&mode=design&t=0s8mnFU5iLBtjnE8-1
-- 
-- 
+  
 
 
